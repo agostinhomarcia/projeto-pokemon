@@ -12,19 +12,19 @@
 <h1 align="center"></h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/portifolio-marcia?color=b60999">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/projeto-pokemon?color=b60999">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/portifolio-marcia?color=b60999">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/projeto-pokemon?color=b60999">
 
-  <!-- <img alt="Repository size" src="https://img.shields.io/agostinhomarcia/jogo-da-velha?color=008B8B"> -->
+  <!-- <img alt="Repository size" src="https://img.shields.io/agostinhomarcia/projeto-pokemon?color=008B8B"> -->
 
-  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/portifolio-marcia?color=b60999">
+   <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/projeto-pokemon?color=b60999">
 
-   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/portifolio-marcia?color=b60999" /> 
+   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/projeto-pokemon?color=b60999" /> 
 
-   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/portifolio-marcia?color=b60999" /> 
+   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/projeto-pokemon?color=b60999" /> 
 
-   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/portifolio-marcia?color=b60999" /> 
+   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/projeto-pokemon?color=b60999" /> 
 </p>
 
 
@@ -36,7 +36,7 @@
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/agostinhomarcia" target="_blank">Author</a>&#xa0; | &#xa0
-  <a href="https://portifolio-marcia.vercel.app/" target="_blank" rel="noopener noreferrer">Projeto</a>
+  <a href="#" target="_blank" rel="noopener noreferrer">Projeto</a>
 </p>
 
 <br>
@@ -76,9 +76,9 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/agostinhomarcia/portifolio-marcia.git
+$ git clone https://github.com/agostinhomarcia/projeto-pokemon.git
 # Access
-$ cd papelaria-caprichos
+$ cd projeto-pokemon
 # The server will initialize in the <http://127.0.0.1:5500/index.html>
 ```
 
