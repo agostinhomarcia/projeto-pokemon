@@ -18,7 +18,7 @@
 
   <!-- <img alt="Repository size" src="https://img.shields.io/agostinhomarcia/projeto-pokemon?color=008B8B"> -->
 
-   <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/projeto-pokemon?color=b60999">
+ <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/projeto-pokemon?color=B60999">
 
    <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/projeto-pokemon?color=b60999" /> 
 
